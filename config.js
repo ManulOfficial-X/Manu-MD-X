@@ -43,7 +43,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }Manu-MD&rBlWAY7b#iI8QMNQiKtMdahk-VGsNDDddpoB2GFDY40oqBds5-eU
 module.exports =
-SESSION_ID: process.env.SESSION_ID ||  ."Manu-MD&rBlWAY7b#iI8QMNQiKtMdahk-VGsNDDddpoB2GFDY40oqBds5-eU"
+SESSION_ID: process.env.SESSION_ID ||  ."Manu-MD&ucNRXRiQ#xxBBDlUlua2Y7u-MVbvepOihLn7xx3BV7IBuwisnZvg
 ALIVE_IMG : process.env.ALIVE_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
 ALIVE_MSG :ess.env.ALIVE_MSG || "Put your alive messege",
 MENU_IMG : process.env.MENU_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
