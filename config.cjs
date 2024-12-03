@@ -2,7 +2,7 @@ module.exports = {
   "ALIVE_IMG": "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
   "FOOT": "©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚",
   "PREFIX": ".",
-  "SESSION_ID": "put your session id here",
+  "SESSION_ID": "Manu-MD&LJVH0RwC#YM_XfeeAugdfZjaoQBwHiWLWQOM053bHI01wbWEYS1A",
   "AUTO_READ_STATUS": "true",
   "MODE": "public",
   "BOT_NUMBER": "94742274855",
