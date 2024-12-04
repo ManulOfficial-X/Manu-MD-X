@@ -15,7 +15,7 @@ module.exports = {
   "ANTI_PHOTO": "warn",
   "ANTI_STICKER": "warn",
   "ANTI_DELETE": false,
-  "DELETEMSGSENDTO": "94742274855",
+  "DELETEMSGSENDTO": "94772476127",
   "ALWAYS_ONLINE": "false",
   "MOROCCO_BLOCK": "false",
   "OWNER_NAME": "©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚",
