@@ -2,7 +2,7 @@ module.exports = {
   "ALIVE_IMG": "",
   "FOOT": "©𝐌𝐑 𝐌𝐀𝐍𝐔𝐋 𝐎𝐅𝐂 💚",
   "PREFIX": ".",
-  "AUTO_READ_STATUS": "true",
+  "AUTO_94788848044_94788848044": "true",
   "MODE": "private",
   "BOT_NUMBER": "94742274855",
   "OMDB_API_KEY": "76cb7f39",
